@@ -1,0 +1,165 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+  vertical-align: middle;
+  font-size: 8ch;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+}
+p1 {
+  vertical-align: middle;
+  font-size: 8ch;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(40, 37, 37);
+}
+p2 {
+  vertical-align: middle;
+  font-size: 3ch;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 37.5%;
+  color: white;
+}
+div {
+  background-color: rgb(40, 37, 37);
+  width: 100%;
+  height: 35ch;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #514e4e;
+}
+
+li {
+  float: left;
+}
+li1 {
+  float: right;
+}
+li1 a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-left: 3ch;
+  margin-right: 3ch;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  margin-left: 3ch;
+  margin-right: 3ch;
+}
+
+li a:hover {
+  background-color: #676363;
+}
+li1 a:hover {
+  background-color: #676363;
+}
+div5 {
+  background-color: white;
+  
+}
+p5 {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: x-large;
+  margin-left: 10ch;
+  margin-right: 10ch;
+}
+h {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: xx-large;
+}
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+.section {
+  margin-bottom: 20px;
+}
+div2 {
+  background-color: rgba(250, 235, 215, 0);
+  width: 100%;
+  height: 20ch;
+}
+h9 {
+  color: black;
+  font-size: medium;
+}
+h2 {
+  font-size: large;
+}
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+table {
+  width: 100%;
+}
+th, td {
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+}
+th {
+  background-color: #f0f0f0;
+}
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+th3 {border-radius: 100%;
+  width: 100%;
+  border-color: black;
+  border-style: solid;
+  float: right;
+}
+tr3 {
+  border-radius: 100%;
+  width: 100%;
+  border-color: black;
+  border-style: solid;
+  float: right  ;
+}
+p5 {
+  font-size: xx-large ;
+  margin-left: 39%;
+  
+}
+button {
+  size: 10ch;
+  vertical-align: middle;
+  text-align: center;
+}
+h4 {
+  vertical-align: middle;
+  font-size: 3ch;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 37.5%;
+  color: white;
+}
+.firstDiv {
+  background-image: url('C:\Users\Diego Valdez\OneDrive\Escritorio\solanamosstarter-main\application\public\images\fondo.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* Add other background styles if needed */
+}
